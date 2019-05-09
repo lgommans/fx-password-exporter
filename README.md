@@ -19,7 +19,7 @@ Based on https://github.com/kspearrin/ff-password-exporter/blob/master/src/rende
 
 Thanks a lot to Kyle Spearrin from Bitwarden for the hard work! I just adapted
 it to avoid having to install npm or electron. Having to install hundreds of
-nodejs packages from the repository is bad enough.
+deb packages for `nodejs{,-sqlite3,-node-forge}` is bad enough.
 
 License is GPLv3, of course, because this is a derivative work (even if I
 butchered it beyond recognition -- sorry about that).
